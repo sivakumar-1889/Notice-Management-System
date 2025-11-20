@@ -132,11 +132,9 @@ All notice entries are saved and loaded from this file
 Screenshots (Description Format)
 
 1.Main Menu
-<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/263164ac-c648-42ce-a840-b2c603158c5b" />
 
 
 2.Add New Notice
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/aee6a00e-e625-4e3c-afd3-cd7449945329" />
 
 
 3.View All Notices
