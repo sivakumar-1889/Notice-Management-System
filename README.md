@@ -133,13 +133,19 @@ Screenshots (Description Format)
 
 1.Main Menu
 
+<img width="280" height="186" alt="Screenshot 2025-11-20 214033" src="https://github.com/user-attachments/assets/9427861c-d924-4028-bd6d-7795e92871db" />
 
 2.Add New Notice
 
+<img width="291" height="268" alt="Screenshot 2025-11-20 214123" src="https://github.com/user-attachments/assets/970d28c0-b528-4694-9940-915b804d556d" />
 
 3.View All Notices
+<img width="272" height="258" alt="Screenshot 2025-11-20 214158" src="https://github.com/user-attachments/assets/c2328c48-15d8-45c0-bb0d-9682665946a3" />
 
-4.Search Notice
+4.clear notices
+<img width="300" height="202" alt="Screenshot 2025-11-20 214222" src="https://github.com/user-attachments/assets/f9d7af8e-7801-4ca2-a958-3c5604dc34b1" />
 
 
 7.Exit
+<img width="284" height="196" alt="Screenshot 2025-11-20 214239" src="https://github.com/user-attachments/assets/d5db1515-457a-483e-a4e3-3ca0b48463d6" />
+
